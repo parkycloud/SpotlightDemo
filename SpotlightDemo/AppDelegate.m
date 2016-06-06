@@ -43,7 +43,7 @@
     lolItemAttributeSet.title = @"英雄联盟";
     lolItemAttributeSet.keywords = @[@"剑圣",@"蛮王",@"武器",@"剑姬",@"剑魔"];
     lolItemAttributeSet.contentDescription = @"这是一个5V5竞技游戏";
-    lolItemAttributeSet.thumbnailData = [NSData dataWithContentsOfFile:@"info.png"];
+    lolItemAttributeSet.thumbnailData = UIImagePNGRepresentation([UIImage imageNamed:@"lol.png"]);
     
     // spotlightInfo 可以作为一些数据传递给接受的地方
     // domainId      id,通过这个id来判断是哪个spotlight
@@ -63,7 +63,7 @@
     mhxyItemAttributeSet.title = @"梦幻西游";
     mhxyItemAttributeSet.keywords = @[@"龙太子",@"神天兵",@"虎头怪",@"飞燕女",@"舞天姬"];
     mhxyItemAttributeSet.contentDescription = @"这是一个经典回合制游戏";
-    mhxyItemAttributeSet.thumbnailData = [NSData dataWithContentsOfFile:@"info.png"];
+    mhxyItemAttributeSet.thumbnailData = UIImagePNGRepresentation([UIImage imageNamed:@"mhxy.png"]);
     
     // spotlightInfo 可以作为一些数据传递给接受的地方
     // domainId      id,通过这个id来判断是哪个spotlight

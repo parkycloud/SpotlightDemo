@@ -18,6 +18,7 @@
 		9EBE10F91D055C9500DC118D /* lol.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EBE10F81D055C9500DC118D /* lol.png */; };
 		9EBE10FC1D05AD8800DC118D /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EBE10FB1D05AD8800DC118D /* SecondViewController.m */; };
 		9EBE10FF1D05B03B00DC118D /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EBE10FE1D05B03B00DC118D /* FirstViewController.m */; };
+		9EBE11011D05C26500DC118D /* mhxy.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EBE11001D05C26500DC118D /* mhxy.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		9EBE10FB1D05AD8800DC118D /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		9EBE10FD1D05B03B00DC118D /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		9EBE10FE1D05B03B00DC118D /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		9EBE11001D05C26500DC118D /* mhxy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mhxy.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				9EBE10FA1D05AD8800DC118D /* SecondViewController.h */,
 				9EBE10FB1D05AD8800DC118D /* SecondViewController.m */,
 				9EBE10F81D055C9500DC118D /* lol.png */,
+				9EBE11001D05C26500DC118D /* mhxy.png */,
 				9EBE10CE1D05575500DC118D /* Main.storyboard */,
 				9EBE10D11D05575500DC118D /* Assets.xcassets */,
 				9EBE10D31D05575500DC118D /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9EBE10D51D05575500DC118D /* LaunchScreen.storyboard in Resources */,
+				9EBE11011D05C26500DC118D /* mhxy.png in Resources */,
 				9EBE10F91D055C9500DC118D /* lol.png in Resources */,
 				9EBE10D21D05575500DC118D /* Assets.xcassets in Resources */,
 				9EBE10D01D05575500DC118D /* Main.storyboard in Resources */,
